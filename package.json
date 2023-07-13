@@ -3,8 +3,13 @@
   "displayName": "NpmStartTerminal",
   "description": "Abre um terminal no Visual Studio Code e executa o comando npm start",
   "version": "0.0.1",
+  "publisher": "edwDev",
   "engines": {
     "vscode": "^1.79.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/edwdev-oficial/NpmStartTerminal.git"
   },
   "categories": [
     "Other"
